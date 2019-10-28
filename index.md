@@ -1,5 +1,6 @@
 ---
 title: Professional Portfolio
+project_title: Professional Portfolio
 ---
 
 # Hello World!
