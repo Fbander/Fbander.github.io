@@ -1,5 +1,6 @@
 ---
 title: Personal Projects
+project_title: Bits and Bytes
 ---
 
 # Hello World!
