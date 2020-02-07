@@ -1,7 +1,6 @@
----
-title: Professional Portfolio
-project_title: Professional Portfolio
----
+
+title: Personal Projects
+
 
 # Hello World!
 
